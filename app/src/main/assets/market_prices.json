@@ -1,0 +1,122 @@
+[
+  {
+    "crop": "Wheat",
+    "mandi": "Agra Mandi",
+    "price": "₹2150/quintal",
+    "state": "North India - Uttar Pradesh"
+  },
+  {
+    "crop": "Sugarcane",
+    "mandi": "Meerut Mandi",
+    "price": "₹340/quintal",
+    "state": "North India - Uttar Pradesh"
+  },
+  {
+    "crop": "Mustard",
+    "mandi": "Hisar Mandi",
+    "price": "₹5600/quintal",
+    "state": "North India - Haryana"
+  },
+  {
+    "crop": "Paddy",
+    "mandi": "Amritsar Mandi",
+    "price": "₹2100/quintal",
+    "state": "North India - Punjab"
+  },
+  {
+    "crop": "Rice",
+    "mandi": "Kolkata Mandi",
+    "price": "₹3100/quintal",
+    "state": "East India - West Bengal"
+  },
+  {
+    "crop": "Jute",
+    "mandi": "Malda Mandi",
+    "price": "₹5200/quintal",
+    "state": "East India - West Bengal"
+  },
+  {
+    "crop": "Maize",
+    "mandi": "Gaya Mandi",
+    "price": "₹1900/quintal",
+    "state": "East India - Bihar"
+  },
+  {
+    "crop": "Potato",
+    "mandi": "Patna Mandi",
+    "price": "₹1400/quintal",
+    "state": "East India - Bihar"
+  },
+  {
+    "crop": "Onion",
+    "mandi": "Nashik Mandi",
+    "price": "₹1500/quintal",
+    "state": "West India - Maharashtra"
+  },
+  {
+    "crop": "Cotton",
+    "mandi": "Nagpur Mandi",
+    "price": "₹6500/quintal",
+    "state": "West India - Maharashtra"
+  },
+  {
+    "crop": "Groundnut",
+    "mandi": "Rajkot Mandi",
+    "price": "₹5000/quintal",
+    "state": "West India - Gujarat"
+  },
+  {
+    "crop": "Bajra",
+    "mandi": "Jaipur Mandi",
+    "price": "₹2200/quintal",
+    "state": "West India - Rajasthan"
+  },
+  {
+    "crop": "Paddy (Sona Masuri)",
+    "mandi": "Warangal Mandi",
+    "price": "₹2500/quintal",
+    "state": "South India - Telangana"
+  },
+  {
+    "crop": "Ragi",
+    "mandi": "Tumakuru Mandi",
+    "price": "₹2700/quintal",
+    "state": "South India - Karnataka"
+  },
+  {
+    "crop": "Coconut",
+    "mandi": "Kochi Mandi",
+    "price": "₹8500/quintal",
+    "state": "South India - Kerala"
+  },
+  {
+    "crop": "Banana",
+    "mandi": "Madurai Mandi",
+    "price": "₹3200/quintal",
+    "state": "South India - Tamil Nadu"
+  },
+  {
+    "crop": "Soyabean",
+    "mandi": "Indore Mandi",
+    "price": "₹4700/quintal",
+    "state": "Central India - Madhya Pradesh"
+  },
+  {
+    "crop": "Chickpeas (Chana)",
+    "mandi": "Bhopal Mandi",
+    "price": "₹4600/quintal",
+    "state": "Central India - Madhya Pradesh"
+  },
+  {
+    "crop": "Wheat",
+    "mandi": "Raipur Mandi",
+    "price": "₹2100/quintal",
+    "state": "Central India - Chhattisgarh"
+  },
+  {
+    "crop": "Paddy",
+    "mandi": "Bilaspur Mandi",
+    "price": "₹2000/quintal",
+    "state": "Central India - Chhattisgarh"
+  }
+]

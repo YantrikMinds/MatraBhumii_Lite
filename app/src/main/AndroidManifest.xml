@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.matrabhumiilite">
+
+    <!-- 🔊 Required for voice input -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="MatraBhumii Lite"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MatraBhumiiLite">
+
+        <!-- 🟢 Splash screen (starts first) -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 🌐 Language Selection -->
+        <activity android:name=".LanguageSelectionActivity" android:exported="false" />
+
+        <!-- 🏠 Main Home Screen -->
+        <activity android:name=".MainActivity" android:exported="false" />
+
+        <!-- 📷 Feature: Crop Disease Detection -->
+        <activity android:name=".CropDiseaseActivity" android:exported="false" />
+
+        <!-- 🌾 Feature: Crop Calendar -->
+        <activity android:name=".CropCalendarActivity" android:exported="false" />
+
+        <!-- 📚 Feature: Govt Scheme List -->
+        <activity android:name=".SchemesActivity" android:exported="false" />
+
+        <!-- 📊 Feature: Mandi Prices -->
+        <activity android:name=".MarketPriceActivity" android:exported="false" />
+
+        <!-- 📝 Farmer Notes Feature -->
+        <activity android:name=".FarmerNotesActivity" />
+        <activity android:name=".AddNoteActivity" />
+        <activity android:name=".ParichayActivity" />
+        <activity android:name=".FertilizerRecommendationActivity"/>
+        <activity android:name=".KrishiFaqActivity"/>
+        <activity android:name=".ProfitCalculatorActivity"/>
+        <activity android:name=".InventoryActivity" />
+        <activity android:name=".PestControlActivity"/>
+        <activity android:name=".OrganicFarmingActivity"/>
+        <activity android:name=".SoilHealthActivity"/>
+
+
+
+
+
+    </application>
+
+</manifest>

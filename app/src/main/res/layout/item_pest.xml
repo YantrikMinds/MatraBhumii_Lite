@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/pestImage"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginEnd="12dp"
+        android:src="@drawable/img_pest"
+        android:contentDescription="Pest Image" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/cropText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crops Affected"
+            android:textSize="14sp"
+            android:textColor="#444444"
+            android:layout_marginTop="4dp" />
+
+        <TextView
+            android:id="@+id/controlText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Control Measures"
+            android:textSize="14sp"
+            android:textColor="#444444"
+            android:layout_marginTop="2dp" />
+    </LinearLayout>
+</LinearLayout>

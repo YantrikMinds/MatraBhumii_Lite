@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:text="परिचय"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#2E7D32" />
+
+        <ImageView
+            android:id="@+id/img_intro"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/farmer_image" />
+
+        <TextView
+            android:id="@+id/tv_content"
+            android:text="यह MatraBhumi Lite ऐप किसानों की सहायता के लिए बनाया गया है। इसमें आप फसल कैलेंडर, रोग पहचान, सरकारी योजनाएं और मंडी भाव जैसी सुविधाएं पा सकते हैं।"
+            android:textSize="16sp"
+            android:layout_marginTop="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#333333" />
+
+    </LinearLayout>
+</ScrollView>

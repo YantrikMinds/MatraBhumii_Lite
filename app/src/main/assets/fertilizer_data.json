@@ -1,0 +1,190 @@
+[
+  {
+    "crop": "Arhar",
+    "recommendation": "Use DAP at sowing time for nitrogen and phosphorus. Apply vermicompost to improve soil structure and encourage root development."
+  },
+  {
+    "crop": "Bajra",
+    "recommendation": "Apply NPK 20:20:0 before sowing. Add organic manure like cow dung compost to boost early growth and drought resistance."
+  },
+  {
+    "crop": "Banana",
+    "recommendation": "Use FYM (Farm Yard Manure) in planting pits. Apply Potash-rich fertilizer monthly to enhance fruit size and sweetness."
+  },
+  {
+    "crop": "Barley",
+    "recommendation": "Before sowing, apply 60 kg NPK (12:32:16) per acre. Urea can be split into two doses for better tillering."
+  },
+  {
+    "crop": "Beans",
+    "recommendation": "Incorporate 5 tons/acre of compost. Use NPK 12:32:16 during early stages and top-dress with urea at flowering."
+  },
+  {
+    "crop": "Black Gram",
+    "recommendation": "Use 50 kg DAP per acre at sowing. Supplement with compost or vermicompost to improve nitrogen fixation."
+  },
+  {
+    "crop": "Brinjal",
+    "recommendation": "Apply well-rotted compost at planting. Use NPK 10:26:26 every 30 days for better flowering and fruiting."
+  },
+  {
+    "crop": "Cabbage",
+    "recommendation": "Apply 100 kg Urea and 50 kg DAP per acre. Ensure soil has enough calcium and boron to avoid head rot."
+  },
+  {
+    "crop": "Carrot",
+    "recommendation": "Use vermicompost or FYM before sowing. Apply Potash for better root size and to prevent cracking."
+  },
+  {
+    "crop": "Castor",
+    "recommendation": "Apply SSP at sowing for phosphorus. Use neem cake as a natural pest repellent and soil enricher."
+  },
+  {
+    "crop": "Chillies",
+    "recommendation": "Apply DAP and Potash before transplanting. Supplement with foliar spray of micronutrients at flowering stage."
+  },
+  {
+    "crop": "Coconut",
+    "recommendation": "Apply 500 g Urea and 1 kg MOP per tree yearly, split into 2–3 doses. Use compost around root zone."
+  },
+  {
+    "crop": "Coriander",
+    "recommendation": "Apply compost before sowing. Use SSP and small quantity of Potash to enhance aroma and leaf quality."
+  },
+  {
+    "crop": "Cotton",
+    "recommendation": "Use DAP and NPK 20:20:0 at sowing. Add potash during flowering to increase boll formation and yield."
+  },
+  {
+    "crop": "Cumin",
+    "recommendation": "Apply 40 kg SSP per acre. Mix in compost or FYM for better seed quality and oil content."
+  },
+  {
+    "crop": "Fenugreek",
+    "recommendation": "Use 50 kg DAP and 2 tons FYM per acre. Vermicompost improves seed aroma and taste."
+  },
+  {
+    "crop": "Finger Millet",
+    "recommendation": "Apply 60:30:30 kg NPK per hectare. Add FYM or green manure before sowing to improve soil fertility."
+  },
+  {
+    "crop": "Garlic",
+    "recommendation": "Use 75 kg NPK and 2 tons compost per acre. Apply bio-fertilizers to improve bulb size and prevent fungal diseases."
+  },
+  {
+    "crop": "Ginger",
+    "recommendation": "Incorporate 10 tons FYM per acre. Use SSP and Potash monthly for better rhizome development and disease resistance."
+  },
+  {
+    "crop": "Gram",
+    "recommendation": "Apply 50 kg DAP per acre. Avoid excess nitrogen. Use Rhizobium culture for nitrogen fixation."
+  },
+  {
+    "crop": "Green Gram",
+    "recommendation": "Use 20 kg DAP per acre at sowing. Supplement with compost or neem cake for organic boost."
+  },
+  {
+    "crop": "Groundnut",
+    "recommendation": "Use gypsum at pegging stage. Apply 25 kg urea and 75 kg SSP before sowing for oil-rich nuts."
+  },
+  {
+    "crop": "Horse Gram",
+    "recommendation": "Use compost or cow dung as basal manure. Add low dose of SSP to improve flowering and yield."
+  },
+  {
+    "crop": "Jowar",
+    "recommendation": "Apply 40 kg urea and 20 kg potash per acre. Use FYM or green manure for better drought resistance."
+  },
+  {
+    "crop": "Jute",
+    "recommendation": "Apply 60 kg NPK and 2 tons FYM per acre. Top-dress with urea after 3 weeks of sowing."
+  },
+  {
+    "crop": "Lentil",
+    "recommendation": "Use 40 kg SSP and 2 tons FYM per acre. Avoid excess nitrogen to prevent excessive vegetative growth."
+  },
+  {
+    "crop": "Maize",
+    "recommendation": "Apply 100 kg Urea, 60 kg SSP, and 40 kg MOP per acre. Split nitrogen into 3 doses."
+  },
+  {
+    "crop": "Millet",
+    "recommendation": "Use 40 kg NPK and organic manure. Add zinc sulphate in zinc-deficient soils for improved growth."
+  },
+  {
+    "crop": "Muskmelon",
+    "recommendation": "Use compost and NPK before sowing. Potash improves sweetness and shelf life of fruits."
+  },
+  {
+    "crop": "Mustard",
+    "recommendation": "Apply 60 kg Urea and 20 kg Sulphur per acre. Use potash to increase oil content in seeds."
+  },
+  {
+    "crop": "Onion",
+    "recommendation": "Use 100 kg Urea, 50 kg DAP, and potash per acre. Add FYM and micronutrients like Zinc and Boron."
+  },
+  {
+    "crop": "Paddy",
+    "recommendation": "Apply 100 kg Urea, 50 kg SSP, and 25 kg Zinc Sulphate per acre. Use green manure before transplanting."
+  },
+  {
+    "crop": "Peas",
+    "recommendation": "Apply 50 kg DAP at sowing. Use Rhizobium culture to promote nodulation and nitrogen fixation."
+  },
+  {
+    "crop": "Radish",
+    "recommendation": "Use compost before sowing. Apply NPK 10:26:26 to improve root shape and avoid splitting."
+  },
+  {
+    "crop": "Ragi",
+    "recommendation": "Apply 60 kg Urea and 30 kg SSP per acre. Organic compost improves grain quality and mineral content."
+  },
+  {
+    "crop": "Sesame",
+    "recommendation": "Apply 50 kg SSP and compost before sowing. Foliar spray of micronutrients improves oil content."
+  },
+  {
+    "crop": "Sorghum",
+    "recommendation": "Use DAP and MOP at sowing. Add compost or neem cake to enhance drought tolerance."
+  },
+  {
+    "crop": "Soybean",
+    "recommendation": "Use 40 kg SSP and 2 tons FYM. Add Rhizobium culture and Potash during flowering stage."
+  },
+  {
+    "crop": "Spinach",
+    "recommendation": "Apply compost before sowing. Add Urea or Ammonium Sulphate for rapid green leafy growth."
+  },
+  {
+    "crop": "Sugarcane",
+    "recommendation": "Apply 150 kg Urea, 100 kg Potash, and compost per acre. Use press mud and biofertilizers for best results."
+  },
+  {
+    "crop": "Sunflower",
+    "recommendation": "Apply 60 kg Urea, 40 kg SSP, and 20 kg Potash per acre. Add boron if leaf curling observed."
+  },
+  {
+    "crop": "Tapioca",
+    "recommendation": "Use 80 kg Urea and 60 kg Potash per acre. Apply compost around tubers to improve size."
+  },
+  {
+    "crop": "Tomato",
+    "recommendation": "Use 75 kg NPK 10:26:26 and compost per acre. Add calcium and magnesium to prevent blossom end rot."
+  },
+  {
+    "crop": "Turmeric",
+    "recommendation": "Incorporate 10 tons cow dung and apply SSP monthly. Use Trichoderma to prevent rhizome rot."
+  },
+  {
+    "crop": "Urad",
+    "recommendation": "Use 50 kg DAP at sowing and compost. Rhizobium culture increases nitrogen supply."
+  },
+  {
+    "crop": "Watermelon",
+    "recommendation": "Apply compost and 50 kg Potash. Foliar spray of Boron and Zinc improves fruit setting."
+  },
+  {
+    "crop": "Wheat",
+    "recommendation": "Use 100 kg Urea and 50 kg DAP per acre. Add sulphur and zinc if yellowing observed in leaves."
+  }
+]

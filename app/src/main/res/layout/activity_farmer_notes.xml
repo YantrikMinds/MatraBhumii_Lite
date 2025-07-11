@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3E5F5">
+
+    <!-- Top Image -->
+    <ImageView
+        android:id="@+id/headerImage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img_farmer_notes" />
+
+    <!-- Heading below the image -->
+    <TextView
+        android:id="@+id/notesHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Notes"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:textColor="#4A148C"
+        android:layout_below="@id/headerImage"
+        android:layout_margin="16dp" />
+
+    <!-- RecyclerView below the heading -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewNotes"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@id/notesHeading"
+        android:layout_above="@id/fabAddNote"
+        android:layout_margin="8dp"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentTop="false"
+        tools:listitem="@layout/item_note" />
+
+    <!-- Floating Button at bottom right -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabAddNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_input_add"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="16dp"
+        android:contentDescription="Add Note" />
+</RelativeLayout>

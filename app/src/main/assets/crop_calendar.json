@@ -1,0 +1,72 @@
+{
+  "North India:J&K, Ladakh, HP, Punjab, Haryana, Uttarakhand, UP, Delhi, Chandigarh": {
+    "January": ["Wheat", "Barley", "Mustard"],
+    "February": ["Wheat", "Lentil", "Peas"],
+    "March": ["Maize", "Muskmelon", "Watermelon"],
+    "April": ["Maize", "Sunflower", "Tomato"],
+    "May": ["Paddy", "Cotton", "Sugarcane"],
+    "June": ["Paddy", "Groundnut", "Maize"],
+    "July": ["Paddy", "Soybean", "Arhar"],
+    "August": ["Millet", "Cotton", "Green Gram"],
+    "September": ["Paddy", "Sesame", "Urad"],
+    "October": ["Wheat", "Barley", "Mustard"],
+    "November": ["Garlic", "Onion", "Spinach"],
+    "December": ["Wheat", "Carrot", "Cabbage"]
+  },
+  "South India:Karnataka, AP, Telangana, TN, Kerala, Puducherry, Lakshadweep": {
+    "January": ["Ragi", "Groundnut", "Chillies"],
+    "February": ["Sunflower", "Cotton", "Brinjal"],
+    "March": ["Maize", "Turmeric", "Banana"],
+    "April": ["Paddy", "Ginger", "Coconut"],
+    "May": ["Paddy", "Sugarcane", "Black Gram"],
+    "June": ["Paddy", "Millet", "Green Gram"],
+    "July": ["Paddy", "Cotton", "Chillies"],
+    "August": ["Paddy", "Finger Millet", "Sorghum"],
+    "September": ["Maize", "Turmeric", "Castor"],
+    "October": ["Groundnut", "Horse Gram", "Tomato"],
+    "November": ["Brinjal", "Beans", "Sunflower"],
+    "December": ["Ragi", "Tapioca", "Banana"]
+  },
+  "East India: Bihar, Jharkhand, Odisha, WB, Sikkim, Andaman": {
+    "January": ["Wheat", "Mustard", "Peas"],
+    "February": ["Wheat", "Lentil", "Barley"],
+    "March": ["Jute", "Maize", "Watermelon"],
+    "April": ["Paddy", "Maize", "Sunflower"],
+    "May": ["Paddy", "Jute", "Sesame"],
+    "June": ["Paddy", "Maize", "Groundnut"],
+    "July": ["Paddy", "Jute", "Soybean"],
+    "August": ["Paddy", "Sesame", "Maize"],
+    "September": ["Paddy", "Groundnut", "Urad"],
+    "October": ["Wheat", "Mustard", "Peas"],
+    "November": ["Garlic", "Spinach", "Onion"],
+    "December": ["Wheat", "Carrot", "Cabbage"]
+  },
+  "West India: Rajasthan, Gujarat, Maharashtra, Goa, Daman-Diu": {
+    "January": ["Wheat", "Barley", "Mustard"],
+    "February": ["Gram", "Wheat", "Cumin"],
+    "March": ["Maize", "Watermelon", "Muskmelon"],
+    "April": ["Cotton", "Groundnut", "Sunflower"],
+    "May": ["Bajra", "Paddy", "Sugarcane"],
+    "June": ["Bajra", "Soybean", "Cotton"],
+    "July": ["Maize", "Soybean", "Groundnut"],
+    "August": ["Bajra", "Cotton", "Green Gram"],
+    "September": ["Sesame", "Jowar", "Paddy"],
+    "October": ["Wheat", "Mustard", "Onion"],
+    "November": ["Spinach", "Carrot", "Garlic"],
+    "December": ["Wheat", "Coriander", "Fenugreek"]
+  },
+  "Central India: MP, Chhattisgarh": {
+    "January": ["Wheat", "Mustard", "Lentil"],
+    "February": ["Gram", "Wheat", "Peas"],
+    "March": ["Maize", "Watermelon", "Muskmelon"],
+    "April": ["Paddy", "Groundnut", "Sunflower"],
+    "May": ["Sugarcane", "Bajra", "Maize"],
+    "June": ["Soybean", "Paddy", "Cotton"],
+    "July": ["Paddy", "Soybean", "Arhar"],
+    "August": ["Cotton", "Green Gram", "Paddy"],
+    "September": ["Paddy", "Sesame", "Jowar"],
+    "October": ["Wheat", "Mustard", "Barley"],
+    "November": ["Spinach", "Radish", "Garlic"],
+    "December": ["Wheat", "Carrot", "Cabbage"]
+  }
+}
